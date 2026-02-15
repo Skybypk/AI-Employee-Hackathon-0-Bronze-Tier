@@ -1,3 +1,11 @@
+<img width="822" height="435" alt="Bronze 01" src="https://github.com/user-attachments/assets/a6378984-8150-4b45-b76a-dbe63efe6a63" />
+
+<img width="857" height="432" alt="Bronze 02" src="https://github.com/user-attachments/assets/0ee70bd7-c8df-4e8c-aef8-5667c6ee35f9" />
+
+<img width="633" height="446" alt="Bronze 03" src="https://github.com/user-attachments/assets/2cb35bc4-b1bf-4952-a354-1e34e6c07db6" />
+
+<img width="661" height="349" alt="Bronze 04" src="https://github.com/user-attachments/assets/2b409dfb-e89e-4df0-afce-937d335fd000" />
+
 # Personal AI Employee - Autonomous FTE (Full-Time Equivalent)
 
 ## Overview
