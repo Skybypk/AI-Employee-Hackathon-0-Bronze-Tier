@@ -210,4 +210,4 @@ Create new MCP servers following the Model Context Protocol specification and re
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-MIT License - see LICENSE file for details
+MIT License - see LICENSE file for details.
