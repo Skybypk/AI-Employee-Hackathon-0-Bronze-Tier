@@ -14,10 +14,10 @@ This project implements a "Digital FTE" (Full-Time Equivalent) as described in t
 ## Architecture
 
 ### Components
-- **The Brain**: Claude Code acts as the reasoning engine
-- **The Memory/GUI**: Obsidian (local Markdown) as the dashboard
-- **The Senses (Watchers)**: Lightweight Python scripts monitoring Gmail, WhatsApp, and filesystems
-- **The Hands (MCP)**: Model Context Protocol servers handle external actions
+- **The Brain**: Claude Code acts as the reasoning engine.
+- **The Memory/GUI**: Obsidian (local Markdown) as the dashboard.
+- **The Senses (Watchers)**: Lightweight Python scripts monitoring Gmail, WhatsApp, and filesystems.
+- **The Hands (MCP)**: Model Context Protocol servers handle external actions.
 
 ### Directory Structure
 ```
